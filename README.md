@@ -1,6 +1,6 @@
 ## Olá pessoas, 
 
-<a href="https://www.linkedin.com/in/luciano-luiz-500a30155/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=LhLuiz&label=Profile%20views&color=0e75b6&style=social" alt="Luciano Henrique Luiz" />
+<a href="https://www.linkedin.com/in/luciano-luiz-500a30155/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=LhLuiz&label=Profile%20views&color=0e75b6&style=social" alt="Luciano Henrique Luiz" />
 
 Me chamo **Luciano Henrique Luiz**, sou estudante de Ciência da Computação na Universidade Tuiuti em Curitiba, não tenho como viver sem *café* e *música*. Gosto de discutir novas ideias e desenvolver soluções inusitadas para problemas propostos. 
 
