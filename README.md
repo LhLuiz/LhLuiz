@@ -8,14 +8,14 @@ Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que ma
 
 ## O que estou fazendo atualmente?
 
- - Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da [Foursys](https://www.foursys.com.br/).
- - Cursando o 5º periodo da faculdade
+ - :computer: Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da [Foursys](https://www.foursys.com.br/).
+ -  :pencil: Cursando o 5º periodo da faculdade. 
 
 ## Tecnologias, Ferramentas e Linguagens
 ### Ferramentas
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 
 ## Meu Status
 
