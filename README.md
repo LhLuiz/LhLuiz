@@ -4,11 +4,11 @@
 
 Me chamo **Luciano Henrique Luiz**, sou estudante de Ciência da Computação na Universidade Tuiuti em Curitiba, não tenho como viver sem *café* e *música*. Gosto de discutir novas ideias e desenvolver soluções inusitadas para problemas propostos. 
 
-Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que mantém uma atitude positiva e proativa diante das adversidades. Tenho 2 anos de experiência no mercado, já atuei como aprendiz administrativo, auxiliando em organização de escritórios, como aprendiz de planejamento realizando tarefas de rotas para menutenção de máquinas e fiquei a frente de projeto de mapeamento de peças de máquinario, atualmente estou atuando com programador trainee java na Foursys.
+Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que mantém uma atitude positiva e proativa diante das adversidades. Tenho 2 anos de experiência no mercado, já atuei como aprendiz administrativo, auxiliando em organização de escritórios, e como aprendiz de planejamento realizando tarefas de rotas para menutenção de máquinas e fiquei a frente de projeto de mapeamento de peças de máquinario.
 
 ## O que estou fazendo atualmente?
 
- - Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da Foursys.
+ - Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da [Foursys](https://www.foursys.com.br/).
  - Cursando o 5º periodo da faculdade
 
 ## Tecnologias, Ferramentas e Linguagens
