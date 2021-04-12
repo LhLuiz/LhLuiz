@@ -8,8 +8,8 @@ Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que ma
 
 ## O que estou fazendo atualmente?
 
- Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da Foursys.
- Cursando o 5º periodo da faculdade
+Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da Foursys.
+Cursando o 5º periodo da faculdade
 
 ## Tecnologias, Ferramentas e Linguagens
 ### Ferramentas
@@ -17,7 +17,9 @@ Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que ma
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
+## Meu Status
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LhLuiz&show_icons=true&locale=en" alt="Luciano Henrique Luiz" />
 
 
 
