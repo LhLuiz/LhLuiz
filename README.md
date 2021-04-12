@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá pessoas, 
 
-<!--
-**LhLuiz/LhLuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/luciano-luiz-500a30155/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=LhLuiz&label=Profile%20views&color=0e75b6&style=social" alt="Luciano Henrique Luiz" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo **Luciano Henrique Luiz**, sou estudante de Ciência da Computação. Gosto de discutir novas ideias e desenvolver soluções inusitadas para problemas propostos. Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que mantém uma atitude positiva e proativa diante das adversidades. Tenho conhecimentos em linguagem: C, C++, JAVA, HTML, CSS, PHP, MySQL, VBA.
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+
+
+
