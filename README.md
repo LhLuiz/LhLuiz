@@ -8,8 +8,7 @@ Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que ma
 
 ## O que estou fazendo atualmente?
 
- - :computer: Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da [Foursys](https://www.foursys.com.br/).
- -  :pencil: Cursando o 6º periodo da faculdade. 
+ - :computer: Meu foco principal hoje é o Desenvolvimento de Tecnologia para Bancos dentro da [Foursys](https://www.foursys.com.br/). 
 
 ## Tecnologias, Ferramentas e Linguagens
 ### Ferramentas
