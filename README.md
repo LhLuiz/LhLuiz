@@ -4,7 +4,7 @@
 
 Me chamo **Luciano Henrique Luiz**, sou estudante de Ciência da Computação na Universidade Tuiuti em Curitiba, não tenho como viver sem *café* e *música*. Gosto de discutir novas ideias e desenvolver soluções inusitadas para problemas propostos. 
 
-Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que mantém uma atitude positiva e proativa diante das adversidades. Tenho 2 anos de experiência no mercado, já atuei como aprendiz administrativo, auxiliando em organização de escritórios, e como aprendiz de planejamento realizando tarefas de rotas para menutenção de máquinas e fiquei a frente de projeto de mapeamento de peças de máquinario.
+Meus colegas me descreveriam como uma pessoa motivada, engenhosa e calma, que mantém uma atitude positiva e proativa diante das adversidades. Tenho mais de 4 anos de experiência no mercado, já atuei como aprendiz administrativo, auxiliando em organização de escritórios, e como aprendiz de planejamento realizando tarefas de rotas para menutenção de máquinas e fiquei a frente de projeto de mapeamento de peças de máquinario durante meu 1 ano no mercado, atualmente atuo com Java e Spring para desenvolvimento de Backend.
 
 ## O que estou fazendo atualmente?
 
